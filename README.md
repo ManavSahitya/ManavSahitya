@@ -2,10 +2,8 @@
 
 
 
-- 🔭 I’m currently working on Ninja Go
-- 🌱 I’m currently learning Html/Css
-- 👯 I’m looking to collaborate on Krumpez Development
-- 🤔 I’m looking for help with Javascript
+- 🔭 I’m currently doing nothing 
+- 🌱 I’m currently learning Js/Css
 - 📫 How to reach me: sahityamanav@gmail.com
 
 
